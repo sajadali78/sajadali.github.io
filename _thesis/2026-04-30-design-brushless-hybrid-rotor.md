@@ -32,6 +32,9 @@ We proposed and simulated two brushless models to achieve these objectives:
 1. **DMDS-WRSVM:** Brushless Dual Mode Dual Stator non-salient Wound Rotor Synchronous and Vernier Machine.
 2. **DMDS-HRSVM:** Brushless Dual Mode Dual Stator Hybrid Rotor Synchronous and Vernier Machine.
 
+![DMDS-HRSVM and DMDS-WRSVM Models](/images/thesis/image32.png)
+![DMDS-HRSVM and DMDS-WRSVM Layouts](/images/thesis/image33.jpeg)
+
 ### Machine Model Dimensions
 * **Stack length:** 100 mm
 * **Airgap length I/O:** 0.5 mm
@@ -41,6 +44,9 @@ We proposed and simulated two brushless models to achieve these objectives:
 ## 4. Key Results
 
 The machine operations were successfully tested for both **High Speed** (Synchronous) and **Low Speed** (Vernier) operations.
+
+![Output Torque Waveforms High Speed](/images/thesis/image41.png)
+![Output Torque Waveforms Low Speed](/images/thesis/image42.png)
 
 ### Skew Analysis and Torque Ripple Minimization
 Initial models showed a significant harmonic content (73% ripple) due to the 18 slot / 4 pole configuration. By introducing an optimized **4° skewing angle** to the stator and PMS, the harmonic content was dramatically reduced. 
@@ -65,6 +71,9 @@ We utilized a **Genetic Algorithm (GA)** to optimize the design due to its integ
 The magnet size was successfully reduced by nearly 50% without sacrificing performance:
 * **Before Optimization:** 227.8 sq mm
 * **After Optimization:** 115.8 sq mm
+
+![Optimization Results](/images/thesis/image63.png)
+![Optimization Average Torque and Ripple Values](/images/thesis/image64.png)
 
 ## 6. Conclusion
 
