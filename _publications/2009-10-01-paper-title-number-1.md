@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "A dual-mode dual-stator hybrid rotor synchronous and vernier machine for variable speed applications"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
