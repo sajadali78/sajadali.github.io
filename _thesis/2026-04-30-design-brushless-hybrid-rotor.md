@@ -32,8 +32,8 @@ We proposed and simulated two brushless models to achieve these objectives:
 1. **DMDS-WRSVM:** Brushless Dual Mode Dual Stator non-salient Wound Rotor Synchronous and Vernier Machine.
 2. **DMDS-HRSVM:** Brushless Dual Mode Dual Stator Hybrid Rotor Synchronous and Vernier Machine.
 
-![DMDS-HRSVM and DMDS-WRSVM Models](/images/thesis/image32.png)
-![DMDS-HRSVM and DMDS-WRSVM Layouts](/images/thesis/image33.jpeg)
+![DMDS-HRSVM and DMDS-WRSVM Models](/images/thesis/image33.png)
+![DMDS-HRSVM and DMDS-WRSVM Layouts](/images/thesis/image32.jpeg)
 
 ### Machine Model Dimensions
 * **Stack length:** 100 mm
@@ -73,7 +73,7 @@ The magnet size was successfully reduced by nearly 50% without sacrificing perfo
 * **After Optimization:** 115.8 sq mm
 
 ![Optimization Results](/images/thesis/image63.png)
-![Optimization Average Torque and Ripple Values](/images/thesis/image64.png)
+![Optimization Average Torque and Ripple Values](/images/thesis/image65.png)
 
 ## 6. Conclusion
 
