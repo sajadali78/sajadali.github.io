@@ -54,6 +54,11 @@ Technical Skills
 * **Optimization & ML (developing):** Multi-objective optimization for motor design, regression-based surrogate modelling, parametric DOE, exposure to neural networks, random forests and gradient boosting.
 * **Languages:** English (fluent, written and oral); Urdu and Sindhi (native); French (beginner — committed to reaching working proficiency).
 
+Certifications & Badges
+======
+* **[Ansys: Intro to Python](https://innovation.ansys.com/badges/badge/aW50cm8tdG8tcHl0aG9uLTQ1Nw%3D%3D)** (Issued: Feb 2026)
+* **[Ansys: Post-processing in Ansys Maxwell](https://innovation.ansys.com/badges/badge/cG9zdC1wcm9jZXNzaW5nLWluLWFuc3lzLW1heHdlbGwtMjM%3D)** (Issued: Feb 2026)
+
 Awards & Honours
 ======
 * **IEEE SCONEST 2022** — Best Abstract Award (Nov 2022).
