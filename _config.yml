@@ -22,7 +22,7 @@ repository               : "sajadali78/sajadali78.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sajad-profile.jpg"
   name             : "Sajad Ali"
   pronouns         : "He/Him"
   bio              : "Graduate Researcher in Electrical Machine Design & Optimization. Focused on synchronous machines, FEA, and ML-based surrogate models."
