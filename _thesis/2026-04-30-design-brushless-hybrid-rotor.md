@@ -32,8 +32,8 @@ We proposed and simulated two brushless models to achieve these objectives:
 1. **DMDS-WRSVM:** Brushless Dual Mode Dual Stator non-salient Wound Rotor Synchronous and Vernier Machine.
 2. **DMDS-HRSVM:** Brushless Dual Mode Dual Stator Hybrid Rotor Synchronous and Vernier Machine.
 
-![DMDS-HRSVM and DMDS-WRSVM Models](/images/thesis/image33.png)
-![DMDS-HRSVM and DMDS-WRSVM Layouts](/images/thesis/image32.jpeg)
+![DMDS-HRSVM and DMDS-WRSVM Models](/images/thesis/image33.jpeg)
+![DMDS-HRSVM and DMDS-WRSVM Layouts](/images/thesis/image32.png)
 
 ### Machine Model Dimensions
 * **Stack length:** 100 mm
