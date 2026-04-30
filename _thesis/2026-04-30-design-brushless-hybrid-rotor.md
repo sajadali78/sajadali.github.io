@@ -72,10 +72,7 @@ We utilized a **Genetic Algorithm (GA)** to optimize the design due to its integ
 
 **Optimization Results:**
 The magnet size was successfully reduced by nearly 50% without sacrificing performance:
-* **Before Optimization:** 227.8 sq mm
-* **After Optimization:** 115.8 sq mm
 
-![Optimization Results](/images/thesis/image63.png)
 ![Optimization Average Torque and Ripple Values](/images/thesis/image65.png)
 
 **Comparsion of Results Table:**
