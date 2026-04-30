@@ -51,8 +51,11 @@ The machine operations were successfully tested for both **High Speed** (Synchro
 ### Skew Analysis and Torque Ripple Minimization
 Initial models showed a significant harmonic content (73% ripple) due to the 18 slot / 4 pole configuration. By introducing an optimized **4° skewing angle** to the stator and PMS, the harmonic content was dramatically reduced. 
 
-* **Before Skewing:** 73% Ripple
-* **After Skewing:** Reduced to ~7% Ripple
+* **Before Skewing:** in low speed torque ripple was 73%, after skew it is reduced to 27%.
+* In high speed it reduced to 6.5% from 7%.
+* Waveforms of torque after skew
+  ![Output Torque Waveforms Low Speed](/images/thesis/afterSkew.PNG)
+  
 
 ### Magnetic Flux Density
 The maximum flux density ($B_{max}$) remained within strict design limits (< 2.0T) for both operating modes.
