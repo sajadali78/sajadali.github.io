@@ -75,12 +75,16 @@ The magnet size was successfully reduced by nearly 50% without sacrificing perfo
 ![Optimization Results](/images/thesis/image63.png)
 ![Optimization Average Torque and Ripple Values](/images/thesis/image65.png)
 
+**Comparsion of Results Table:**
+![Output Torque Waveforms Low Speed](/images/thesis/image60.png)
+
 ## 6. Conclusion
 
 * Successfully designed the DMDS-HRSVM and DMDS-WRSVM models.
 * Completed rigorous simulations for both high-speed and low-speed operations.
 * Parametrized design variables for PMs to seamlessly run optimizations.
 * Optimized and significantly reduced magnet size, cutting costs while maintaining performance.
+
 
 ---
 
