@@ -1,5 +1,6 @@
 ---
 title: "Mitigating fault currents and overloads via coordinated DG and reactor placement"
+category: conferences
 collection: publications
 permalink: /publication/2025-01-02-mitigating-fault-currents
 excerpt: 'Co-authored conference paper on mitigating fault currents and overloads.'

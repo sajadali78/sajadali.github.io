@@ -1,5 +1,6 @@
 ---
 title: "A dual-mode dual-stator hybrid-rotor synchronous and vernier machine for variable-speed applications"
+category: manuscripts
 collection: publications
 permalink: /publication/2026-01-01-dual-stator-hybrid-rotor
 excerpt: 'Design of a novel dual-stator brushless synchronous machine published in Nature Scientific Reports.'

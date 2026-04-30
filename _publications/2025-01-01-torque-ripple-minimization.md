@@ -1,5 +1,6 @@
 ---
 title: "Torque ripple minimization of IPM spoke-type motor"
+category: conferences
 collection: publications
 permalink: /publication/2025-01-01-torque-ripple-minimization
 excerpt: 'Optimization of an IPM spoke-type motor for torque-ripple minimization presented at IEEE ELMA 2025.'
