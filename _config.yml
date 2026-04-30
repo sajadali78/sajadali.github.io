@@ -224,7 +224,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  references:
     output: true
     permalink: /:collection/:path/
   thesis:
@@ -270,10 +270,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _references
   - scope:
       path: ""
-      type: portfolio
+      type: references
     values:
       layout: single
       author_profile: true
