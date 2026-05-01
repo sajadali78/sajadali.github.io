@@ -27,7 +27,7 @@ Education
 
 Research Experience
 ======
-* **Graduate Research Assistant — Electrical Machines Lab** (Aug 2024 – Present)
+* **Graduate Research Assistant, Electrical Machines Lab** (Aug 2024 – Present)
   * *Sukkur IBA University, Pakistan*
   * Designed and analyzed a novel dual-stator hybrid-rotor synchronous–vernier machine; built parametric Ansys Maxwell models, ran FEA-based design sweeps, and extracted KPIs (torque, ripple, back-EMF, losses, efficiency).
   * Developed an automation pipeline using Python/MATLAB to drive FEA simulations and post-process results, directly applicable to surrogate-model training datasets.
@@ -55,14 +55,14 @@ Certifications & Badges
 
 Awards & Honours
 ======
-* **IEEE SCONEST 2022** — Best Abstract Award (Nov 2022).
-* **Sindh Talent Hunt Scholarship** — Full merit scholarship for academic excellence (2017).
+* **IEEE SCONEST 2022:** Best Abstract Award (Nov 2022).
+* **Sindh Talent Hunt Scholarship:** Full merit scholarship for academic excellence (2017).
 
 Academic References
 ======
-* **Dr. Qasim Ali** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (Qasim-ali@iba-suk.edu.pk)
-* **Dr. Hafiz Mudassir Munir** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (mudassir.munir@iba-suk.edu.pk)
-* **Dr. Ghulam Akbar** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (ghulamakbar@iba-suk.edu.pk)
+* **Dr. Qasim Ali:** Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (Qasim-ali@iba-suk.edu.pk)
+* **Dr. Hafiz Mudassir Munir:** Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (mudassir.munir@iba-suk.edu.pk)
+* **Dr. Ghulam Akbar:** Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (ghulamakbar@iba-suk.edu.pk)
 
 Publications
 ======
