@@ -13,12 +13,6 @@ Research Profile
 ======
 Master's-level researcher in electrical engineering with a focus on electromagnetic design and multi-objective optimization of synchronous machines. Lead author of a peer-reviewed publication in Nature Scientific Reports (2026, IF 3.9) on a dual-stator hybrid-rotor synchronous–vernier machine, plus two IEEE conference papers covering torque-ripple minimization of an IPM motor. Hands-on with Ansys Maxwell, Motor-CAD, MATLAB/Simulink, and Python automation. Highly motivated to apply machine-learning surrogate models and multi-objective optimization to the efficiency-driven design of next-generation synchronous machines (PCB motors, SynRMs, IPMs) for electrified mobility, robotics, and sustainable energy systems.
 
-Alignment with the LSEE PhD Topic
-======
-* **Synchronous machine design** — Master's thesis and Nature Sci. Reports paper on a novel dual-stator brushless synchronous machine; IEEE ELMA 2025 paper on IPM (spoke-type) torque-ripple minimization.
-* **FEA and surrogate modelling** — Built large parametric Ansys Maxwell and Motor-CAD design sweeps; developed Python scripts to automate FEA runs and extract performance KPIs (torque, ripple, losses, efficiency).
-* **Machine learning readiness** — Working knowledge of Python (NumPy, pandas, scikit-learn, PyTorch basics), regression and classification, and data pipelines for FEA datasets — directly transferable to neural-network, random-forest, and gradient-boosting surrogate models cited in the thesis topic.
-
 Education
 ======
 * **M.E. in Electrical Engineering (Power Systems)**
