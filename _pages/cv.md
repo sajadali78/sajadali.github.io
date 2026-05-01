@@ -60,9 +60,9 @@ Awards & Honours
 
 Academic References
 ======
-* **Dr. Qasim Ali** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (Qasim.ali@iba-suk.edu.pk)
+* **Dr. Qasim Ali** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (Qasim-ali@iba-suk.edu.pk)
 * **Dr. Hafiz Mudassir Munir** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (mudassir.munir@iba-suk.edu.pk)
-* **Dr. Ghulam Akbar** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (Ghulam.akbar@iba-suk.edu.pk)
+* **Dr. Ghulam Akbar** — Assistant Professor, Department of Electrical Engineering, Sukkur IBA University. (ghulamakbar@iba-suk.edu.pk)
 
 Publications
 ======
